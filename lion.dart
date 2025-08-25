@@ -16,7 +16,7 @@ class Lion extends Animal{
 
   @override
   void makeSound() {
-    print("${getName()} roars");
+    print("${getName()} roars grrrrh");
   }
 
 }
